@@ -1,0 +1,13 @@
+{
+  "name": "window-size",
+  "repo": "luka5/window-size",
+  "description": "Returns the height and width of an window",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
