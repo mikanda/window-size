@@ -11,7 +11,9 @@
 
 ## API
 
-   
+#### window-size()
+
+Returns the current inner window size as an object like ``{width: 300, height: 600}``
 
 ## License
 

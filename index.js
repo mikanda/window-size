@@ -15,9 +15,3 @@ exports = module.exports = function () {
   }
   return size;
 };
-exports.height = function () {
-  return exports().height;
-};
-exports.width = function () {
-  return exports().width;
-};
