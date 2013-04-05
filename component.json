@@ -1,6 +1,6 @@
 {
   "name": "window-size",
-  "repo": "luka5/window-size",
+  "repo": "mikanda/window-size",
   "description": "Returns the height and width of an window",
   "version": "0.0.1",
   "keywords": [],

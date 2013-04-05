@@ -7,7 +7,7 @@
 
 ## Installation
 
-    $ component install luka5/window-size
+    $ component install mikanda/window-size
 
 ## API
 
