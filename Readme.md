@@ -17,4 +17,4 @@ Returns the current inner window size as an object like ``{width: 300, height: 6
 
 ## License
 
-  MIT
+  LGPL

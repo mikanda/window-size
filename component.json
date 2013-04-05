@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {},
   "development": {},
-  "license": "MIT",
+  "license": "LGPL",
   "scripts": [
     "index.js"
   ]
